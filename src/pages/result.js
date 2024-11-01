@@ -5,9 +5,9 @@ import {ENV} from "@/utility/const";
 
 export default function Result({datas,info}) {
     const candidates = [
-        { name1: "Kandidat A1", name2: "Kandidat A2" },
-        { name1: "Kandidat B1", name2: "Kandidat B2" },
-        { name1: "Kandidat C1", name2: "Kandidat C2" },
+        { name1: "Revan Revaldo", name2: "Dafila Sulistiana Putri" },
+        { name1: "Ita Adika Syilvia", name2: "Tasya Nur Fadila" },
+        { name1: "Raditya Caesar Hidayat", name2: "Nurazizah" },
     ];
 
     return (
