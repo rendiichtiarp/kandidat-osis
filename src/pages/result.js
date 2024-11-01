@@ -25,7 +25,7 @@ export default function Result({datas,info}) {
                     {
                         candidates.map((candidate, index) => (
                             <Flex key={index} borderWidth="1px" borderRadius="lg" p={4} mb={4} align="center">
-                                <Box ml={4} textAlign="center" flex="1">
+                                <Box textAlign="center" flex="1">
                                     <Text fontWeight="bold" color={'#fff'}>
                                         Kandidat {index + 1}:
                                     </Text>
